@@ -1,0 +1,15 @@
+label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: var(--twitter-border-radius);
+    border: 1px solid var(--twitter-dark-gray);
+    background-color: var(--twitter-white);
+  }
+  
+  
